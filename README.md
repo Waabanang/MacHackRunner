@@ -24,4 +24,4 @@ So we're gonna stick with using [Lua's reccomended style](http://lua-users.org/w
 * Dunno yet, let's talk about it
 
 
-Here's some example runner style games to give you an idea of what kind of project this is: [1](http://www.adamatomic.com/canabalt/)[2](http://games.adultswim.com/robot-unicorn-attack-twitchy-online-game.html)[3](http://www.kongregate.com/games/tremorgames/flood-runner-4)[4](http://www.kongregate.com/games/raitendo/action-turnip)
+Here's some example runner style games to give you an idea of what kind of project this is: [1](http://www.adamatomic.com/canabalt/) [2](http://games.adultswim.com/robot-unicorn-attack-twitchy-online-game.html) [3](http://www.kongregate.com/games/tremorgames/flood-runner-4) [4](http://www.kongregate.com/games/raitendo/action-turnip)
